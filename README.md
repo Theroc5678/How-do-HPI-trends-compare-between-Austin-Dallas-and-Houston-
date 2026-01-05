@@ -1,6 +1,6 @@
 # Texas Housing Price Trend Analysis
 
-This project Analyzes the Housing Price Index (HPI) trends for various Texas metropolitan areas, while primarily focusing on Houston, Austin, and Dallas. The goal is to understand how prices have changed over time, compare growth rate of metros, investigate causes and highlight which metro has the most investment stability.
+This project Analyzes the Housing Price Index (HPI) trends for various Texas metropolitan areas, while primarily focusing on Houston, Austin, and Dallas. The goal is to understand how prices have changed over time, compare growth rate of metros, investigate causes, and highlight which metro has the most investment stability.
 
 ## Project Contents
 
