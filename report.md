@@ -10,3 +10,17 @@ This market shows constant fluctuation due to changes in oil prices, which ultim
 and available rental homes exist for every 100 extremely low-income households in Dallas. There is also an issue of luxury homes being built in response to the growth of the Dallas population which has only worsened the problem of housing affordability and overpopulation of Dallas resulting in the constant fluctuation of the housing price index. A good strategy to help reduce this would be temporary government subsidies for real estate to temporarily lower prices to match affordability until there is a good enough amount of the population housed to better control the population and match the robust Dallas job market growth. 
     To conclude, it is evident that these metros have shown major growth overtime, but there are still huge factors holding them back. Though  
 this is not the exact solution to fix every problem with these major metros; these suggestions would likely help increase housing price index for these metros in a linear manner for a good period of time. However, it is very hard to say what will happen for sure because of constant changes in the economy affected by many factors. Hopefully we will see major growth in real estate for these metros within the next few years with the proper decision making of the government and real estate companies.  
+
+Cited Works:
+
+B. Kerr, “High Tech Industry Report,” Austin Chamber of Commerce, 07-May-2023. [Online]. Available: https://www.austinchamber.com/blog/07-05-2023-high-tech-industry
+
+E. Chudwin, “Rapid Growth Overwhelmed Austin. These Housing Reforms Made a Difference,” American Planning Association, 30-Jun-2025. [Online]. Available: https://www.planning.org/blog/9313264/rapid-growth-overwhelmed-austin-these-housing-reforms-made-a-difference/
+
+E. Bramlett Partners, “Austin’s Rise as a Leading Tech Hub: A Linear Timeline,” Bramlett Partners Blog, 18-Jul-2024. [Online]. Available: https://bramlettpartners.com/blog/austins-rise-as-a-leading-tech-hub-a-linear-timeline
+
+K. Zarella, “Fluctuations in Oil Prices — Impact on the Houston Real Estate Market,” Revilo Real Estate Blog. [Online]. Available: https://revilorealestate.com/blog/fluctuations-in-oil-prices-impact-on-houston-real-estate-market
+
+M. Trombly, “Survey: Crime, housing costs, economy still top concerns for Harris County residents,” Houston Landing, May 20, 2024. [Online]. Available: https://www.houstonlanding.org/survey-crime-housing-costs-economy-still-top-concerns-for-harris-county-residents/
+
+P. A. Peña, “Dallas is the second worst metro for available low-income housing,” KERA News, Mar. 19, 2025. [Online]. Available: https://www.keranews.org/news/2025-03-19/dallas-affordable-housing-rental-shortage-low-income
